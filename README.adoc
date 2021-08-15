@@ -1,0 +1,3 @@
+= Airponics Chamber
+
+An open-source hardware (OSHW) aeroponics project, modeled as a http://mach30.github.io/dof[DOF] component.
