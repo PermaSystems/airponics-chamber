@@ -1,0 +1,8 @@
+{
+  "name": "usb-a-to-usb-micro-b-cable",
+  "version": "0.1.0",
+  "description": "USB Type-A to USB Micro-B cable",
+  "license": "(MIT AND CC-BY-4.0)",
+  "dependencies": {
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "waterproof-digital-temperature-sensor",
+  "version": "0.1.0",
+  "description": "Waterproof Digital Temperature Sensor",
+  "license": "(MIT AND CC-BY-4.0)",
+  "dependencies": {
+  }
+}

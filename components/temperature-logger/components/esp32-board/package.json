@@ -1,0 +1,8 @@
+{
+  "name": "esp32-board",
+  "version": "0.1.0",
+  "description": "ESP32 Board",
+  "license": "(MIT AND CC-BY-4.0)",
+  "dependencies": {
+  }
+}
