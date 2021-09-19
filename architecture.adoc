@@ -1,0 +1,33 @@
+= Airponics Chamber
+:doc-name: architecture.adoc
+:revnumber: v0.1.0
+:toc: left
+
+ifndef::backend-pdf[]
+image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT]
+image:https://img.shields.io/badge/Contribute%20on-GitHub-orange[Contribute on GitHub, link=https://github.com/earthshuttle/airponics-chamber.git]
+image:https://img.shields.io/badge/Download%20-PDF-blue[Download PDF, link=/airponics-chamber.pdf]
+endif::[]
+
+<<<
+
+== Stakeholder Needs
+
+The Airponics Chamber is guided by a series of stakeholder needs, listed below.
+
+
+=== 1: Control growth chamber temperature
+****
+In an aeroponics system, the optimum growthe chamber temperature should be between 4 and 30 degrees celsius for successful plant growth.footnote:[Imran Ali Lakhiar, Gao Jianmin, Tabinda Naz Syed, Farman Ali Chandio, Noman Ali Buttar, Waqar Ahmed Qureshi, "Monitoring and Control Systems in Agriculture Using Intelligent Sensor Techniques: A Review of the Aeroponic System", Journal of Sensors, vol. 2018, Article ID 8672769, 18 pages, 2018. https://doi.org/10.1155/2018/8672769]
+****
+
+== User Stories
+
+The Airponics Chamber's stakeholder needs are then used to identify a series of user stories which then lead to design decisions captured in data structure and activity definitions.
+
+
+
+== Data Structures
+This section covers each data structure type in the *Airponics Chamber*.
+
+
