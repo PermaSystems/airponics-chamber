@@ -4,6 +4,5 @@
   "description": "Airponics Chamber",
   "repository": "https://github.com/earthshuttle/airponics-chamber.git",
   "license": "(MIT AND CC-BY-4.0)",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
