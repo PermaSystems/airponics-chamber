@@ -22,6 +22,12 @@ In an aeroponics system, the optimum growth chamber temperature should be betwee
 ****
 
 
+=== 2: Minimum aeroponics light quantity
+****
+In an aeroponics system, it is necessary to provide sufficient light quantity of at least 8 to 10 hours per day for healthy plant growth.footnote:1-MonitoringAndControlSystemsInAgricultureUsingIntelligentSensorTechniques[Imran Ali Lakhiar, Gao Jianmin, Tabinda Naz Syed, Farman Ali Chandio, Noman Ali Buttar, Waqar Ahmed Qureshi, "Monitoring and Control Systems in Agriculture Using Intelligent Sensor Techniques: A Review of the Aeroponic System", Journal of Sensors, vol. 2018, Article ID 8672769, 18 pages, 2018. https://doi.org/10.1155/2018/8672769]
+****
+
+
 
 == User Stories
 

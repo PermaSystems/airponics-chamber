@@ -21,6 +21,15 @@ elements:
       between 4 and 30 degrees celsius for successful plant growth.
     derivedFrom:
       - 0-References/2-ManualOnQualitySeedPotatoProductionUsingAeroponics.yaml
+  1-StakeholderNeeds/2-MinimumAeroponicsLightIntensity.yaml: &ref_3
+    id: 2
+    name: Minimum aeroponics light quantity
+    statement: >-
+      In an aeroponics system, it is necessary to provide sufficient light
+      quantity of at least 8 to 10 hours per day for healthy plant growth.
+    derivedFrom:
+      - >-
+        0-References/1-MonitoringAndControlSystemsInAgricultureUsingIntelligentSensorTechniques.yaml
 package:
   name: airponics-chamber
   version: 0.1.0
@@ -34,3 +43,4 @@ generationDate: 9/20/2021
   - *ref_1
 1-StakeholderNeeds:
   - *ref_2
+  - *ref_3
