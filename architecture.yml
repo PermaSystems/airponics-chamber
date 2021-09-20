@@ -1,5 +1,5 @@
 elements:
-  0-References/0-MonitoringAndControlSystemsInAgricultureUsingIntelligentSensorTechniques.yaml: &ref_0
+  0-References/1-MonitoringAndControlSystemsInAgricultureUsingIntelligentSensorTechniques.yaml: &ref_0
     title: >-
       Imran Ali Lakhiar, Gao Jianmin, Tabinda Naz Syed, Farman Ali Chandio,
       Noman Ali Buttar, Waqar Ahmed Qureshi, "Monitoring and Control Systems in
@@ -7,15 +7,20 @@ elements:
       System", Journal of Sensors, vol. 2018, Article ID 8672769, 18 pages,
       2018. https://doi.org/10.1155/2018/8672769
     url: https://doi.org/10.1155/2018/8672769
-  1-StakeholderNeeds/1-ControlGrowthChamberTemperature.yaml: &ref_1
+  0-References/2-ManualOnQualitySeedPotatoProductionUsingAeroponics.yaml: &ref_1
+    title: >-
+      V. Otazú, Manual on Quality Seed Potato Production Using Aeroponics, vol.
+      44, International Potato Center (CIP), Lima, Peru, 2010,
+      https://doi.org/10.4160/9789290605041
+    url: https://doi.org/10.4160/9789290605041
+  1-StakeholderNeeds/1-ControlGrowthChamberTemperature.yaml: &ref_2
     id: 1
     name: Control growth chamber temperature
     statement: >-
       In an aeroponics system, the optimum growth chamber temperature should be
       between 4 and 30 degrees celsius for successful plant growth.
     derivedFrom:
-      - >-
-        0-References/0-MonitoringAndControlSystemsInAgricultureUsingIntelligentSensorTechniques.yaml
+      - 0-References/2-ManualOnQualitySeedPotatoProductionUsingAeroponics.yaml
 package:
   name: airponics-chamber
   version: 0.1.0
@@ -26,5 +31,6 @@ package:
 generationDate: 9/20/2021
 0-References:
   - *ref_0
-1-StakeholderNeeds:
   - *ref_1
+1-StakeholderNeeds:
+  - *ref_2
