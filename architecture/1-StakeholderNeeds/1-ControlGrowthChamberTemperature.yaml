@@ -1,5 +1,5 @@
 id: 1
 name: "Control growth chamber temperature"
-statement: "In an aeroponics system, the optimum growthe chamber temperature should be between 4 and 30 degrees celsius for successful plant growth."
+statement: "In an aeroponics system, the optimum growth chamber temperature should be between 4 and 30 degrees celsius for successful plant growth."
 derivedFrom:
 - "0-References/0-MonitoringAndControlSystemsInAgricultureUsingIntelligentSensorTechniques.yaml"
