@@ -18,8 +18,10 @@ The {{architecture.package.description}} is guided by a series of stakeholder ne
 {% for need in architecture['1-StakeholderNeeds'] %}
 === {{need.id}}: {{need.name}}
 ****
-{{need.statement}}{% if need.derivedFrom.length > 0 %}{% for derivedFromItem in need.derivedFrom %}{% if architecture['elements'][derivedFromItem].url %}footnote:[{{architecture['elements'][derivedFromItem].title}}]{% endif %}{% endfor %}{% endif %}{% endfor %}
+{{need.statement}}{% if need.derivedFrom.length > 0 %}{% for derivedFromItem in need.derivedFrom %}{% if architecture['elements'][derivedFromItem].url %}footnote:[{{architecture['elements'][derivedFromItem].title}}]{% endif %}{% endfor %}{% endif %}
 ****
+
+{% endfor %}
 
 == User Stories
 
