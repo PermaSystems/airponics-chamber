@@ -1,0 +1,5 @@
+id: 3
+name: "Usable light spectrum"
+statement: "In an aeroponics system, infra-red light should be filtered out, as to utilize only the portion of the light spectrum needed for plant growth and to reduce heat build up inside of the plant cells."
+derivedFrom:
+- "0-References/3-UnderstandingLightEnergyForPlantGrowth.yaml"
