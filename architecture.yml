@@ -22,8 +22,8 @@ elements:
     id: 1
     name: Optimum growth temperature
     statement: >-
-      In an aeroponics system, the optimum growth chamber temperature should be
-      between 4 and 30 degrees celsius for successful plant growth.
+      In an aeroponics system, the optimum temperature range should be between 4
+      and 30 degrees celsius for successful plant growth.
     derivedFrom:
       - 0-References/2-ManualOnQualitySeedPotatoProductionUsingAeroponics.yaml
   1-StakeholderNeeds/2-MinimumLightExposure.yaml: &ref_4
