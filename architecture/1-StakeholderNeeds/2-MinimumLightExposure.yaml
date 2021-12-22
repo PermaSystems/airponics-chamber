@@ -1,5 +1,0 @@
-id: 2
-name: "Minimum light exposure"
-statement: "In an aeroponics system, it is necessary to provide sufficient light exposure of at least 8 to 10 hours per day for healthy plant growth."
-derivedFrom:
-- "0-References/1-MonitoringAndControlSystemsInAgricultureUsingIntelligentSensorTechniques.yaml"
