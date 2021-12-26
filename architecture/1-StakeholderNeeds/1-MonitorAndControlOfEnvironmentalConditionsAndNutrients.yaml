@@ -1,0 +1,5 @@
+id: 1
+name: "Monitoring & Control of Environmental Conditions & Nutrients"
+statement: "In an aeroponics system, the environmental conditions & nutrients need to be monitored and controlled for the optimal growth of vegetables."
+derivedFrom:
+- "0-References/1-MonitoringAndControlSystemsInAgricultureUsingIntelligentSensorTechniques.yaml"
