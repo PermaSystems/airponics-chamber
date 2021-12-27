@@ -3,3 +3,4 @@ name: "Environment Temperature"
 statement: "In an aeroponics system, the nominal environment temperature range should be between 4 and 30 degrees celsius, with an optimal temperature range between 15 and 20 degrees celsius for tubular plants."
 derivedFrom:
 - "0-References/2-ManualOnQualitySeedPotatoProductionUsingAeroponics.yaml"
+- "0-References/3-DesignAndImplementationOfIoTSystemForAeroponicChamberTemperatureMonitoring.yaml"
