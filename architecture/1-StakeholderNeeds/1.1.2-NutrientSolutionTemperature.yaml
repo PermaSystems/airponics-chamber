@@ -1,0 +1,5 @@
+id: 1.1.2
+name: "Nutrient Solution Temperature"
+statement: "In an aeroponics system, the nutrient solution temperature should not exceed 20 degrees celsius."
+derivedFrom:
+- "0-References/2-ManualOnQualitySeedPotatoProductionUsingAeroponics.yaml"
