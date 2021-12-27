@@ -1,0 +1,5 @@
+id: 1.2
+name: "Humidity"
+statement: "In an aeroponics system, the required relative humidity is above 60% at 25 to 30 degrees celsius."
+derivedFrom:
+- "0-References/2-DesignAndImplementationOfIoTSystemForAeroponicChamberTemperatureMonitoring.yaml"
