@@ -1,0 +1,5 @@
+id: 1.1.1
+name: "Environment Temperature for Tubers"
+statement: "In an aeroponics system for tubers, the nominal environment temperature range is 4 to 30 degrees celsius, with an ideal temperature range of 16 to 19 degrees celsius for starting tuber formation."
+derivedFrom:
+- "0-References/3-ManualOnQualitySeedPotatoProductionUsingAeroponics.yaml"
