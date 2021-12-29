@@ -7,51 +7,58 @@ elements:
       System", Journal of Sensors, vol. 2018, Article ID 8672769, 18 pages,
       2018.
     url: https://doi.org/10.1155/2018/8672769
-  0-References/2-DesignAndImplementationOfIoTSystemForAeroponicChamberTemperatureMonitoring.yaml: &ref_1
+  0-References/10-EffectsOfElevatedCarbonDioxideOnPhotosynthesisAndCarbonPartitioning.yaml: &ref_1
+    title: >-
+      Thompson, Michael et al. “Effects of Elevated Carbon Dioxide on
+      Photosynthesis and Carbon Partitioning: A Perspective on Root Sugar
+      Sensing and Hormonal Crosstalk.” Frontiers in physiology vol. 8 578. 8
+      Aug. 2017.
+    url: doi:10.3389/fphys.2017.00578
+  0-References/2-DesignAndImplementationOfIoTSystemForAeroponicChamberTemperatureMonitoring.yaml: &ref_2
     title: >-
       Charisma Aulia Jamhari, Wahyu Kunto Wibowo, Aulia Rahma Annisa, Teuku
       Muhammad Roffi, "Design and Implementation of IoT System for Aeroponic
       Chamber Temperature Monitoring", Vocational Education and Electrical
       Engineering (ICVEE) 2020 Third International Conference on, pp. 1-4, 2020.
     url: https://doi.org/10.1109/ICVEE50212.2020.9243213
-  0-References/3-ManualOnQualitySeedPotatoProductionUsingAeroponics.yaml: &ref_2
+  0-References/3-ManualOnQualitySeedPotatoProductionUsingAeroponics.yaml: &ref_3
     title: >-
       V. Otazú, Manual on Quality Seed Potato Production Using Aeroponics, vol.
       44, International Potato Center (CIP), Lima, Peru, 2010.
     url: https://doi.org/10.4160/9789290603924
-  0-References/4-MonitoringAndControlOfAeroponicGrowingSystemForPotatoProduction.yaml: &ref_3
+  0-References/4-MonitoringAndControlOfAeroponicGrowingSystemForPotatoProduction.yaml: &ref_4
     title: >-
       I. Idris and M. I. Sani, “Monitoring and control of aeroponic growing
       system for potato production,” in 2012 IEEE Conference on Control, Systems
       & Industrial Informatics, Bandung, Indonesia, September 2012.
     url: https://doi.org/10.1109/CCSII.2012.6470485
-  0-References/5-IndoorPlantLightsForAeroponics.yaml: &ref_4
+  0-References/5-IndoorPlantLightsForAeroponics.yaml: &ref_5
     title: Indoor Plant Lights for Aeroponics
     url: https://aeroponicsdiy.com/indoor-plant-lights-for-aeroponics/
-  0-References/6-WhatIsTheRightLightIntensityAndIlluminationLength.yaml: &ref_5
+  0-References/6-WhatIsTheRightLightIntensityAndIlluminationLength.yaml: &ref_6
     title: What is the right light intensity and illumination length?
     url: https://hortione.com/2020/12/the-right-light-intensity-which-distance/
-  0-References/7-UnderstandingLightEnergyForPlantGrowth.yaml: &ref_6
+  0-References/7-UnderstandingLightEnergyForPlantGrowth.yaml: &ref_7
     title: >-
       Understanding Light Energy for Plant Growth: Aeroponic growing systems For
       greenhouses and indoors the natural solution for CLEAN Aeroponic food
       indoors.
     url: https://www.aeroponics.com/aero65.htm
-  0-References/8-LightIntensityAndPhotoperiodInfluenceTheGrowthAndDevelopmentOfHydroponicallyGrownLeafLettuce.yaml: &ref_7
+  0-References/8-LightIntensityAndPhotoperiodInfluenceTheGrowthAndDevelopmentOfHydroponicallyGrownLeafLettuce.yaml: &ref_8
     title: >-
       Kang, J.H., KrishnaKumar, S., Atulba, S.L.S. et al. Light intensity and
       photoperiod influence the growth and development of hydroponically grown
       leaf lettuce in a closed-type plant factory system. Hortic. Environ.
       Biotechnol. 54, 501–509 (2013).
     url: https://doi.org/10.1007/s13580-013-0109-8
-  0-References/9-ComparativeGrowthPhotosyntheticPigmentsAndOsmolytesAnalysisofHempSeedlingsUnderAnAeroponicsSystemwithDifferentLEDLightSources.yaml: &ref_8
+  0-References/9-ComparativeGrowthPhotosyntheticPigmentsAndOsmolytesAnalysisofHempSeedlingsUnderAnAeroponicsSystemwithDifferentLEDLightSources.yaml: &ref_9
     title: >-
       Islam, Jahirul et al. “Comparative Growth, Photosynthetic Pigments, and
       Osmolytes Analysis of Hemp (Cannabis Sativa L.) Seedlings under an
       Aeroponics System with Different LED Light Sources.” Horticulturae 7.8
       239. Web.
     url: https://doi.org/10.3390/horticulturae7080239
-  1-StakeholderNeeds/1-MonitorAndControlOfEnvironmentalConditionsAndNutrients.yaml: &ref_9
+  1-StakeholderNeeds/1-MonitorAndControlOfEnvironmentalConditionsAndNutrients.yaml: &ref_10
     id: 1
     name: Monitoring & Control of Environmental Conditions & Nutrients
     statement: >-
@@ -60,7 +67,7 @@ elements:
     derivedFrom:
       - >-
         0-References/1-MonitoringAndControlSystemsInAgricultureUsingIntelligentSensorTechniques.yaml
-  1-StakeholderNeeds/1.1-EnvironmentTemperature.yaml: &ref_10
+  1-StakeholderNeeds/1.1-EnvironmentTemperature.yaml: &ref_11
     id: 1.1
     name: Environment Temperature
     statement: >-
@@ -69,7 +76,7 @@ elements:
     derivedFrom:
       - >-
         0-References/2-DesignAndImplementationOfIoTSystemForAeroponicChamberTemperatureMonitoring.yaml
-  1-StakeholderNeeds/1.1.1-EnvironmentTemperatureForTubers.yaml: &ref_11
+  1-StakeholderNeeds/1.1.1-EnvironmentTemperatureForTubers.yaml: &ref_12
     id: 1.1.1
     name: Environment Temperature for Tubers
     statement: >-
@@ -78,7 +85,7 @@ elements:
       19 degrees celsius for starting tuber formation.
     derivedFrom:
       - 0-References/3-ManualOnQualitySeedPotatoProductionUsingAeroponics.yaml
-  1-StakeholderNeeds/1.1.2-NutrientSolutionTemperature.yaml: &ref_12
+  1-StakeholderNeeds/1.1.2-NutrientSolutionTemperature.yaml: &ref_13
     id: 1.1.2
     name: Nutrient Solution Temperature for Tubers
     statement: >-
@@ -86,7 +93,7 @@ elements:
       should not exceed 20 degrees celsius.
     derivedFrom:
       - 0-References/3-ManualOnQualitySeedPotatoProductionUsingAeroponics.yaml
-  1-StakeholderNeeds/1.2-Humidity.yaml: &ref_13
+  1-StakeholderNeeds/1.2-Humidity.yaml: &ref_14
     id: 1.2
     name: Humidity
     statement: >-
@@ -95,29 +102,30 @@ elements:
     derivedFrom:
       - >-
         0-References/2-DesignAndImplementationOfIoTSystemForAeroponicChamberTemperatureMonitoring.yaml
-  1-StakeholderNeeds/1.3-Light.yaml: &ref_14
+  1-StakeholderNeeds/1.3-Light.yaml: &ref_15
     id: 1.3
     name: Lights
     statement: >-
-      Aeroponically grown plants require varying light spectra, critical day
-      length, and light intensity.
+      Aeroponically grown plants require varying light spectra, light/dark
+      period, and light intensity.
     derivedFrom:
       - 0-References/5-IndoorPlantLightsForAeroponics.yaml
-  1-StakeholderNeeds/1.3.1-CriticalDayLength.yaml: &ref_15
+  1-StakeholderNeeds/1.3.1-LightDarkPeriod.yaml: &ref_16
     id: 1.3.1
-    name: Critical Day Length
+    name: Light/Dark Period
     statement: >-
-      The amount of light exposure should be limited as per the plants critical
-      day length (photoperiod); 14 to 18 hours for long-day (short-night)
-      plants, 8 to 12 hours (with a continuous dark period of 14 to 16 hours)
-      for short-day (long-night) plants.
+      The amount of light exposure should be limited as per the plants
+      light/dark period (a.k.a., critical day length or photoperiod); 14 to 18
+      hours of light for long-day (short-night) plants, 8 to 12 hours of light
+      (with a continuous dark period of 14 to 16 hours) for short-day
+      (long-night) plants.
     derivedFrom:
       - 0-References/6-WhatIsTheRightLightIntensityAndIlluminationLength.yaml
       - >-
         0-References/8-LightIntensityAndPhotoperiodInfluenceTheGrowthAndDevelopmentOfHydroponicallyGrownLeafLettuce.yaml
       - >-
         0-References/9-ComparativeGrowthPhotosyntheticPigmentsAndOsmolytesAnalysisofHempSeedlingsUnderAnAeroponicsSystemwithDifferentLEDLightSources.yaml
-  1-StakeholderNeeds/1.3.2-UsableLightSpectrum.yaml: &ref_16
+  1-StakeholderNeeds/1.3.2-UsableLightSpectrum.yaml: &ref_17
     id: 1.3.2
     name: Usable Light Spectrum
     statement: >-
@@ -129,7 +137,7 @@ elements:
     derivedFrom:
       - 0-References/5-IndoorPlantLightsForAeroponics.yaml
       - 0-References/7-UnderstandingLightEnergyForPlantGrowth.yaml
-  1-StakeholderNeeds/1.3.3-LightIntensity.yaml: &ref_17
+  1-StakeholderNeeds/1.3.3-LightIntensity.yaml: &ref_18
     id: 1.3.3
     name: Light Intensity
     statement: >-
@@ -143,6 +151,16 @@ elements:
         0-References/8-LightIntensityAndPhotoperiodInfluenceTheGrowthAndDevelopmentOfHydroponicallyGrownLeafLettuce.yaml
       - >-
         0-References/9-ComparativeGrowthPhotosyntheticPigmentsAndOsmolytesAnalysisofHempSeedlingsUnderAnAeroponicsSystemwithDifferentLEDLightSources.yaml
+  1-StakeholderNeeds/1.4-CO2Concentration.yaml: &ref_19
+    id: 1.4
+    name: CO2 Concentration
+    statement: >-
+      Elevated carbon dioxide (CO2) concentration yields increased
+      photosynthesis; e.g., in one study, white clover grown under elevated 600
+      ppm CO2 for 8 years retained a 37% increase in photosynthesis.
+    derivedFrom:
+      - >-
+        0-References/10-EffectsOfElevatedCarbonDioxideOnPhotosynthesisAndCarbonPartitioning.yaml
 package:
   name: airponics-chamber
   version: 0.1.0
@@ -161,8 +179,8 @@ generationDate: 12/29/2021
   - *ref_6
   - *ref_7
   - *ref_8
-1-StakeholderNeeds:
   - *ref_9
+1-StakeholderNeeds:
   - *ref_10
   - *ref_11
   - *ref_12
@@ -171,3 +189,5 @@ generationDate: 12/29/2021
   - *ref_15
   - *ref_16
   - *ref_17
+  - *ref_18
+  - *ref_19

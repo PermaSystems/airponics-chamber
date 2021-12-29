@@ -48,13 +48,13 @@ In an aeroponics system, the required relative humidity is above 60% at 25 to 30
 
 === 1.3: Lights
 ****
-Aeroponically grown plants require varying light spectra, critical day length, and light intensity.footnote:5-IndoorPlantLightsForAeroponics[Indoor Plant Lights for Aeroponics https://aeroponicsdiy.com/indoor-plant-lights-for-aeroponics/]
+Aeroponically grown plants require varying light spectra, light/dark period, and light intensity.footnote:5-IndoorPlantLightsForAeroponics[Indoor Plant Lights for Aeroponics https://aeroponicsdiy.com/indoor-plant-lights-for-aeroponics/]
 ****
 
 
-=== 1.3.1: Critical Day Length
+=== 1.3.1: Light/Dark Period
 ****
-The amount of light exposure should be limited as per the plants critical day length (photoperiod); 14 to 18 hours for long-day (short-night) plants, 8 to 12 hours (with a continuous dark period of 14 to 16 hours) for short-day (long-night) plants.footnote:6-WhatIsTheRightLightIntensityAndIlluminationLength[What is the right light intensity and illumination length? https://hortione.com/2020/12/the-right-light-intensity-which-distance/]footnote:8-LightIntensityAndPhotoperiodInfluenceTheGrowthAndDevelopmentOfHydroponicallyGrownLeafLettuce[Kang, J.H., KrishnaKumar, S., Atulba, S.L.S. et al. Light intensity and photoperiod influence the growth and development of hydroponically grown leaf lettuce in a closed-type plant factory system. Hortic. Environ. Biotechnol. 54, 501–509 (2013). https://doi.org/10.1007/s13580-013-0109-8]footnote:9-ComparativeGrowthPhotosyntheticPigmentsAndOsmolytesAnalysisofHempSeedlingsUnderAnAeroponicsSystemwithDifferentLEDLightSources[Islam, Jahirul et al. “Comparative Growth, Photosynthetic Pigments, and Osmolytes Analysis of Hemp (Cannabis Sativa L.) Seedlings under an Aeroponics System with Different LED Light Sources.” Horticulturae 7.8 239. Web. https://doi.org/10.3390/horticulturae7080239]
+The amount of light exposure should be limited as per the plants light/dark period (a.k.a., critical day length or photoperiod); 14 to 18 hours of light for long-day (short-night) plants, 8 to 12 hours of light (with a continuous dark period of 14 to 16 hours) for short-day (long-night) plants.footnote:6-WhatIsTheRightLightIntensityAndIlluminationLength[What is the right light intensity and illumination length? https://hortione.com/2020/12/the-right-light-intensity-which-distance/]footnote:8-LightIntensityAndPhotoperiodInfluenceTheGrowthAndDevelopmentOfHydroponicallyGrownLeafLettuce[Kang, J.H., KrishnaKumar, S., Atulba, S.L.S. et al. Light intensity and photoperiod influence the growth and development of hydroponically grown leaf lettuce in a closed-type plant factory system. Hortic. Environ. Biotechnol. 54, 501–509 (2013). https://doi.org/10.1007/s13580-013-0109-8]footnote:9-ComparativeGrowthPhotosyntheticPigmentsAndOsmolytesAnalysisofHempSeedlingsUnderAnAeroponicsSystemwithDifferentLEDLightSources[Islam, Jahirul et al. “Comparative Growth, Photosynthetic Pigments, and Osmolytes Analysis of Hemp (Cannabis Sativa L.) Seedlings under an Aeroponics System with Different LED Light Sources.” Horticulturae 7.8 239. Web. https://doi.org/10.3390/horticulturae7080239]
 ****
 
 
@@ -67,6 +67,12 @@ Infra-red light should be filtered out, as to utilize only the portion of the li
 === 1.3.3: Light Intensity
 ****
 The required light intensity, or photosynthetic photon flux density (PPFD), varies per plant and growth phase; e.g., the PPFD for tomato/cucumber is 75 to 300 umol/m2/s for seedling phase, 250 to 400 umol/m2/s for vegetative phase, & 600+ umol/m2/s for generative phase.footnote:6-WhatIsTheRightLightIntensityAndIlluminationLength[What is the right light intensity and illumination length? https://hortione.com/2020/12/the-right-light-intensity-which-distance/]footnote:8-LightIntensityAndPhotoperiodInfluenceTheGrowthAndDevelopmentOfHydroponicallyGrownLeafLettuce[Kang, J.H., KrishnaKumar, S., Atulba, S.L.S. et al. Light intensity and photoperiod influence the growth and development of hydroponically grown leaf lettuce in a closed-type plant factory system. Hortic. Environ. Biotechnol. 54, 501–509 (2013). https://doi.org/10.1007/s13580-013-0109-8]footnote:9-ComparativeGrowthPhotosyntheticPigmentsAndOsmolytesAnalysisofHempSeedlingsUnderAnAeroponicsSystemwithDifferentLEDLightSources[Islam, Jahirul et al. “Comparative Growth, Photosynthetic Pigments, and Osmolytes Analysis of Hemp (Cannabis Sativa L.) Seedlings under an Aeroponics System with Different LED Light Sources.” Horticulturae 7.8 239. Web. https://doi.org/10.3390/horticulturae7080239]
+****
+
+
+=== 1.4: CO2 Concentration
+****
+Elevated carbon dioxide (CO2) concentration yields increased photosynthesis; e.g., in one study, white clover grown under elevated 600 ppm CO2 for 8 years retained a 37% increase in photosynthesis.footnote:10-EffectsOfElevatedCarbonDioxideOnPhotosynthesisAndCarbonPartitioning[Thompson, Michael et al. “Effects of Elevated Carbon Dioxide on Photosynthesis and Carbon Partitioning: A Perspective on Root Sugar Sensing and Hormonal Crosstalk.” Frontiers in physiology vol. 8 578. 8 Aug. 2017. doi:10.3389/fphys.2017.00578]
 ****
 
 
