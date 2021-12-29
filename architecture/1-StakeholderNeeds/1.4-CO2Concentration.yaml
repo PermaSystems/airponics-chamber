@@ -1,0 +1,5 @@
+id: 1.4
+name: "CO2 Concentration"
+statement: "Elevated carbon dioxide (CO2) concentration yields increased photosynthesis; e.g., in one study, white clover grown under elevated CO2 of 600 ppm, for 8 years, retained a 37% increase in photosynthesis."
+derivedFrom:
+- "0-References/10-EffectsOfElevatedCarbonDioxideOnPhotosynthesisAndCarbonPartitioning.yaml"
