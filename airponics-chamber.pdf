@@ -4,16 +4,16 @@
 << /Title (Airponics Chamber)
 /Creator (Asciidoctor PDF 1.6.1, based on Prawn 2.4.0)
 /Producer (Asciidoctor PDF 1.6.1, based on Prawn 2.4.0)
-/ModDate (D:20211229063944+00'00')
-/CreationDate (D:20211229064007+00'00')
+/ModDate (D:20211229065852+00'00')
+/CreationDate (D:20211229065916+00'00')
 >>
 endobj
 2 0 obj
 << /Type /Catalog
 /Pages 3 0 R
 /Names 10 0 R
-/Outlines 95 0 R
-/PageLabels 110 0 R
+/Outlines 101 0 R
+/PageLabels 116 0 R
 /PageMode /UseOutlines
 /OpenAction [7 0 R /FitH 792]
 /ViewerPreferences << /DisplayDocTitle true
@@ -661,10 +661,10 @@ endobj
 /Font << /F2.0 8 0 R
 /F1.0 15 0 R
 >>
-/XObject << /Stamp1 111 0 R
+/XObject << /Stamp1 117 0 R
 >>
 >>
-/Annots [71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R]
+/Annots [77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R]
 >>
 endobj
 8 0 obj
@@ -683,7 +683,7 @@ endobj
 >>
 endobj
 11 0 obj
-<< /Kids [49 0 R 50 0 R]
+<< /Kids [51 0 R 52 0 R]
 >>
 endobj
 12 0 obj
@@ -1461,7 +1461,7 @@ endobj
 /Font << /F2.0 8 0 R
 /F1.0 15 0 R
 >>
-/XObject << /Stamp2 112 0 R
+/XObject << /Stamp2 118 0 R
 >>
 >>
 /Annots [18 0 R 21 0 R 24 0 R 26 0 R 28 0 R 31 0 R]
@@ -1556,7 +1556,7 @@ endobj
 >>
 endobj
 32 0 obj
-<< /Length 19537
+<< /Length 21793
 >>
 stream
 q
@@ -1733,6 +1733,50 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
+460.5995 648.239 Td
+/F1.0 11 Tf
+[<>] TJ
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+460.5995 652.1529 Td
+/F1.0 6.413 Tf
+[<5b>] TJ
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2588 0.5451 0.7922 scn
+0.2588 0.5451 0.7922 SCN
+
+BT
+462.3823 652.1529 Td
+/F1.0 6.413 Tf
+[<37>] TJ
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+465.948 652.1529 Td
+/F1.0 6.413 Tf
+[<5d>] TJ
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
 72.0 606.349 Td
 /F2.0 11 Tf
 [<312e332e323a2055736162> 10 <6c65204c6967687420537065637472756d>] TJ
@@ -1884,7 +1928,7 @@ ET
 BT
 434.7801 536.5989 Td
 /F1.0 6.413 Tf
-[<37>] TJ
+[<38>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -2060,6 +2104,39 @@ ET
 
 0.0 0.0 0.0 SCN
 0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+188.1515 421.0449 Td
+/F1.0 6.413 Tf
+[<5b>] TJ
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2588 0.5451 0.7922 scn
+0.2588 0.5451 0.7922 SCN
+
+BT
+189.9343 421.0449 Td
+/F1.0 6.413 Tf
+[<37>] TJ
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+BT
+193.5 421.0449 Td
+/F1.0 6.413 Tf
+[<5d>] TJ
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
 0.1451 0.3608 0.5686 scn
 0.1451 0.3608 0.5686 SCN
 
@@ -2147,7 +2224,7 @@ ET
 0.5271 Tw
 
 BT
-72.0 224.128 Td
+72.0 254.872 Td
 /F1.0 8 Tf
 [<>] TJ
 ET
@@ -2162,7 +2239,7 @@ ET
 0.5271 Tw
 
 BT
-72.0 224.128 Td
+72.0 254.872 Td
 /F1.0 8 Tf
 [<5b>] TJ
 ET
@@ -2177,7 +2254,7 @@ ET
 0.5271 Tw
 
 BT
-74.224 224.128 Td
+74.224 254.872 Td
 /F1.0 8 Tf
 [<31>] TJ
 ET
@@ -2192,7 +2269,7 @@ ET
 0.5271 Tw
 
 BT
-78.672 224.128 Td
+78.672 254.872 Td
 /F1.0 8 Tf
 [<5d20496d72> 10 <616e20416c69204c616b68696172> 50 <2c2047616f204a69616e6d696e2c2054> 120 <6162696e6461204e617a205379> 20 <65642c2046> 50 <6172> -25 <6d616e20416c69204368616e64696f> 40 <2c204e6f6d616e20416c6920427574746172> 50 <2c2057> 40 <617161722041686d656420517572657368692c20224d6f6e69746f72> -15 <696e67>] TJ
 ET
@@ -2207,7 +2284,7 @@ ET
 0.7054 Tw
 
 BT
-72.0 214.88 Td
+72.0 245.624 Td
 /F1.0 8 Tf
 [<616e6420436f6e74726f6c2053797374656d7320696e204167> 10 <72> -15 <6963756c74757265205573696e6720496e74656c6c6967656e742053656e736f722054> 120 <6563686e69717565733a2041205265> 30 <766965> 20 <77206f6620746865204165726f706f6e69632053797374656d222c204a6f7572> -25 <6e616c206f662053656e736f7273> 15 <2c>] TJ
 ET
@@ -2220,7 +2297,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-72.0 205.632 Td
+72.0 236.376 Td
 /F1.0 8 Tf
 [<76> 25 <6f6c2e20323031382c204172> -40 <7469636c6520494420383637323736392c203138207061676573> 15 <2c20323031382e20>] TJ
 ET
@@ -2231,7 +2308,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-238.768 205.632 Td
+238.768 236.376 Td
 /F1.0 8 Tf
 [<68747470733a2f2f646f692e6f72672f31302e313135352f323031382f38363732373639>] TJ
 ET
@@ -2244,7 +2321,7 @@ ET
 0.7015 Tw
 
 BT
-72.0 193.384 Td
+72.0 224.128 Td
 /F1.0 8 Tf
 [<>] TJ
 ET
@@ -2259,7 +2336,7 @@ ET
 0.7015 Tw
 
 BT
-72.0 193.384 Td
+72.0 224.128 Td
 /F1.0 8 Tf
 [<5b>] TJ
 ET
@@ -2274,7 +2351,7 @@ ET
 0.7015 Tw
 
 BT
-74.224 193.384 Td
+74.224 224.128 Td
 /F1.0 8 Tf
 [<32>] TJ
 ET
@@ -2289,7 +2366,7 @@ ET
 0.7015 Tw
 
 BT
-78.672 193.384 Td
+78.672 224.128 Td
 /F1.0 8 Tf
 [<5d2043686172> -15 <69736d612041> 30 <756c6961204a> 20 <616d686172> -15 <692c2057> 40 <6168> 30 <7975204b> 30 <756e746f205769626f> 15 <77> 10 <6f> 40 <2c2041> 30 <756c6961205261686d6120416e6e6973612c2054> 120 <65756b75204d7568616d6d616420526f6666692c202244657369676e20616e6420496d706c656d656e746174696f6e206f66>] TJ
 ET
@@ -2304,7 +2381,7 @@ ET
 0.4989 Tw
 
 BT
-72.0 184.136 Td
+72.0 214.88 Td
 /F1.0 8 Tf
 [<496f542053797374656d2066> 30 <6f72204165726f706f6e6963204368616d6265722054> 120 <656d706572> 10 <6174757265204d6f6e69746f72> -15 <696e67222c2056> 80 <6f636174696f6e616c20456475636174696f6e20616e6420456c65637472> -15 <6963616c20456e67696e656572> -15 <696e6720284943564545292032303230205468697264>] TJ
 ET
@@ -2317,7 +2394,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-72.0 174.888 Td
+72.0 205.632 Td
 /F1.0 8 Tf
 [<496e746572> -25 <6e6174696f6e616c20436f6e66> 30 <6572656e6365206f6e2c207070> 35 <2e20312d342c20323032302e20>] TJ
 ET
@@ -2328,7 +2405,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-226.44 174.888 Td
+226.44 205.632 Td
 /F1.0 8 Tf
 [<68747470733a2f2f646f692e6f72672f31302e313130392f494356454535303231322e323032302e39323433323133>] TJ
 ET
@@ -2341,7 +2418,7 @@ ET
 0.7316 Tw
 
 BT
-72.0 162.64 Td
+72.0 193.384 Td
 /F1.0 8 Tf
 [<>] TJ
 ET
@@ -2356,7 +2433,7 @@ ET
 0.7316 Tw
 
 BT
-72.0 162.64 Td
+72.0 193.384 Td
 /F1.0 8 Tf
 [<5b>] TJ
 ET
@@ -2371,7 +2448,7 @@ ET
 0.7316 Tw
 
 BT
-74.224 162.64 Td
+74.224 193.384 Td
 /F1.0 8 Tf
 [<33>] TJ
 ET
@@ -2386,7 +2463,7 @@ ET
 0.7316 Tw
 
 BT
-78.672 162.64 Td
+78.672 193.384 Td
 /F1.0 8 Tf
 [<5d2056> 125 <2e204f74617afa2c204d616e> 10 <75616c206f6e205175616c69747920536565642050> 50 <6f7461746f2050726f64756374696f6e205573696e67204165726f706f6e696373> 15 <2c2076> 25 <6f6c2e2034342c20496e746572> -25 <6e6174696f6e616c2050> 50 <6f7461746f2043656e7465722028434950292c204c696d612c2050> 50 <6572> -15 <752c>] TJ
 ET
@@ -2399,7 +2476,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-72.0 153.392 Td
+72.0 184.136 Td
 /F1.0 8 Tf
 [<323031302e20>] TJ
 ET
@@ -2410,7 +2487,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-94.24 153.392 Td
+94.24 184.136 Td
 /F1.0 8 Tf
 [<68747470733a2f2f646f692e6f72672f31302e343136302f39373839323930363033393234>] TJ
 ET
@@ -2421,7 +2498,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-72.0 141.144 Td
+72.0 171.888 Td
 /F1.0 8 Tf
 [<>] TJ
 ET
@@ -2432,7 +2509,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-72.0 141.144 Td
+72.0 171.888 Td
 /F1.0 8 Tf
 [<5b>] TJ
 ET
@@ -2443,7 +2520,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-74.224 141.144 Td
+74.224 171.888 Td
 /F1.0 8 Tf
 [<34>] TJ
 ET
@@ -2454,7 +2531,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-78.672 141.144 Td
+78.672 171.888 Td
 /F1.0 8 Tf
 [<5d20496e646f6f7220506c616e74204c69676874732066> 30 <6f72204165726f706f6e69637320>] TJ
 ET
@@ -2465,7 +2542,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-205.608 141.144 Td
+205.608 171.888 Td
 /F1.0 8 Tf
 [<68747470733a2f2f6165726f706f6e696373646979> 100 <2e636f6d2f696e646f6f722d706c616e742d6c69676874732d66> 30 <6f722d6165726f706f6e6963732f>] TJ
 ET
@@ -2476,7 +2553,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-72.0 128.896 Td
+72.0 159.64 Td
 /F1.0 8 Tf
 [<>] TJ
 ET
@@ -2487,7 +2564,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-72.0 128.896 Td
+72.0 159.64 Td
 /F1.0 8 Tf
 [<5b>] TJ
 ET
@@ -2498,7 +2575,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-74.224 128.896 Td
+74.224 159.64 Td
 /F1.0 8 Tf
 [<35>] TJ
 ET
@@ -2509,7 +2586,7 @@ ET
 0.2 0.2 0.2 SCN
 
 BT
-78.672 128.896 Td
+78.672 159.64 Td
 /F1.0 8 Tf
 [<5d2057686174206973207468652072> -15 <69676874206c6967687420696e74656e7369747920616e6420696c6c756d696e6174696f6e206c656e6774683f20>] TJ
 ET
@@ -2520,7 +2597,7 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-277.992 128.896 Td
+277.992 159.64 Td
 /F1.0 8 Tf
 [<68747470733a2f2f686f72> -40 <74696f6e65> 15 <2e636f6d2f323032302f31322f7468652d72> -15 <696768742d6c696768742d696e74656e736974792d77686963682d64697374616e63652f>] TJ
 ET
@@ -2533,7 +2610,7 @@ ET
 1.3187 Tw
 
 BT
-72.0 116.648 Td
+72.0 147.392 Td
 /F1.0 8 Tf
 [<>] TJ
 ET
@@ -2548,7 +2625,7 @@ ET
 1.3187 Tw
 
 BT
-72.0 116.648 Td
+72.0 147.392 Td
 /F1.0 8 Tf
 [<5b>] TJ
 ET
@@ -2563,7 +2640,7 @@ ET
 1.3187 Tw
 
 BT
-74.224 116.648 Td
+74.224 147.392 Td
 /F1.0 8 Tf
 [<36>] TJ
 ET
@@ -2578,7 +2655,7 @@ ET
 1.3187 Tw
 
 BT
-78.672 116.648 Td
+78.672 147.392 Td
 /F1.0 8 Tf
 [<5d204b616e672c204a> 30 <2e482e2c204b72> -15 <6973686e614b> 30 <756d6172> 50 <2c2053> 20 <2e2c204174756c62612c2053> 20 <2e4c2e53> 20 <2e20657420616c2e204c6967687420696e74656e7369747920616e642070686f746f706572> -15 <696f6420696e666c75656e6365207468652067> 10 <726f> 15 <77746820616e64206465> 30 <76> 25 <656c6f706d656e74206f66>] TJ
 ET
@@ -2593,7 +2670,7 @@ ET
 3.0283 Tw
 
 BT
-72.0 107.4 Td
+72.0 138.144 Td
 /F1.0 8 Tf
 [<68> 30 <7964726f706f6e6963616c6c792067> 10 <726f> 15 <776e206c656166206c65747475636520696e206120636c6f7365642d7479706520706c616e742066> 30 <6163746f72> -30 <792073797374656d2e20486f72> -40 <7469632e20456e> 20 <7669726f6e2e2042696f746563686e6f6c2e2035342c2035303196353039202832303133292e>] TJ
 ET
@@ -2606,9 +2683,95 @@ ET
 0.2588 0.5451 0.7922 SCN
 
 BT
-72.0 98.152 Td
+72.0 128.896 Td
 /F1.0 8 Tf
 [<68747470733a2f2f646f692e6f72672f31302e313030372f7331333538302d3031332d303130392d38>] TJ
+ET
+
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+1.454 Tw
+
+BT
+72.0 116.648 Td
+/F1.0 8 Tf
+[<>] TJ
+ET
+
+
+0.0 Tw
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+1.454 Tw
+
+BT
+72.0 116.648 Td
+/F1.0 8 Tf
+[<5b>] TJ
+ET
+
+
+0.0 Tw
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2588 0.5451 0.7922 scn
+0.2588 0.5451 0.7922 SCN
+
+1.454 Tw
+
+BT
+74.224 116.648 Td
+/F1.0 8 Tf
+[<37>] TJ
+ET
+
+
+0.0 Tw
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+1.454 Tw
+
+BT
+78.672 116.648 Td
+/F1.0 8 Tf
+[<5d2049736c616d2c204a> 20 <61686972> -15 <756c20657420616c2e2093436f6d706172> 10 <61746976> 25 <652047726f> 15 <7774682c2050686f746f73796e746865746963205069676d656e7473> 15 <2c20616e64204f736d6f6c7974657320416e616c79736973206f662048656d70202843616e6e61626973205361746976> 25 <61204c2e29>] TJ
+ET
+
+
+0.0 Tw
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2 0.2 0.2 scn
+0.2 0.2 0.2 SCN
+
+8.2388 Tw
+
+BT
+72.0 107.4 Td
+/F1.0 8 Tf
+[<536565646c696e677320756e64657220616e204165726f706f6e6963732053797374656d20776974682044696666> 30 <6572656e74204c4544204c6967687420536f7572636573> 15 <2e> 100 <9420486f72> -40 <746963756c747572> 10 <616520372e38203233392e2057> 30 <6562> 40 <2e>] TJ
+ET
+
+
+0.0 Tw
+0.0 0.0 0.0 SCN
+0.0 0.0 0.0 scn
+0.2588 0.5451 0.7922 scn
+0.2588 0.5451 0.7922 SCN
+
+BT
+72.0 98.152 Td
+/F1.0 8 Tf
+[<68747470733a2f2f646f692e6f72672f31302e333339302f686f72> -40 <746963756c747572> 10 <616537303830323339>] TJ
 ET
 
 0.0 0.0 0.0 SCN
@@ -2651,7 +2814,7 @@ ET
 BT
 74.224 85.904 Td
 /F1.0 8 Tf
-[<37>] TJ
+[<38>] TJ
 ET
 
 
@@ -2800,10 +2963,10 @@ endobj
 /Font << /F2.0 8 0 R
 /F1.0 15 0 R
 >>
-/XObject << /Stamp1 111 0 R
+/XObject << /Stamp1 117 0 R
 >>
 >>
-/Annots [36 0 R 38 0 R 40 0 R 42 0 R 44 0 R 45 0 R 51 0 R 52 0 R 54 0 R 55 0 R 57 0 R 58 0 R 60 0 R 61 0 R 63 0 R 64 0 R 66 0 R 67 0 R 69 0 R 70 0 R]
+/Annots [36 0 R 38 0 R 40 0 R 42 0 R 44 0 R 46 0 R 47 0 R 48 0 R 54 0 R 55 0 R 57 0 R 58 0 R 60 0 R 61 0 R 63 0 R 64 0 R 66 0 R 67 0 R 69 0 R 70 0 R 72 0 R 73 0 R 75 0 R 76 0 R]
 >>
 endobj
 34 0 obj
@@ -2832,9 +2995,20 @@ endobj
 >>
 endobj
 39 0 obj
-[33 0 R /XYZ 0 621.962 null]
+[33 0 R /XYZ 460.5995 656.137 null]
 endobj
 40 0 obj
+<< /Border [0 0 0]
+/Dest (_footnotedef_7)
+/Subtype /Link
+/Rect [462.3823 650.8254 465.948 656.7574]
+/Type /Annot
+>>
+endobj
+41 0 obj
+[33 0 R /XYZ 0 621.962 null]
+endobj
+42 0 obj
 << /Border [0 0 0]
 /Dest (_footnotedef_4)
 /Subtype /Link
@@ -2842,21 +3016,21 @@ endobj
 /Type /Annot
 >>
 endobj
-41 0 obj
+43 0 obj
 [33 0 R /XYZ 432.9973 540.583 null]
 endobj
-42 0 obj
+44 0 obj
 << /Border [0 0 0]
-/Dest (_footnotedef_7)
+/Dest (_footnotedef_8)
 /Subtype /Link
 /Rect [434.7801 535.2714 438.3457 541.2034]
 /Type /Annot
 >>
 endobj
-43 0 obj
+45 0 obj
 [33 0 R /XYZ 0 506.408 null]
 endobj
-44 0 obj
+46 0 obj
 << /Border [0 0 0]
 /Dest (_footnotedef_5)
 /Subtype /Link
@@ -2864,7 +3038,7 @@ endobj
 /Type /Annot
 >>
 endobj
-45 0 obj
+47 0 obj
 << /Border [0 0 0]
 /Dest (_footnotedef_6)
 /Subtype /Link
@@ -2872,52 +3046,38 @@ endobj
 /Type /Annot
 >>
 endobj
-46 0 obj
-[33 0 R /XYZ 0 390.854 null]
-endobj
-47 0 obj
-[33 0 R /XYZ 0 321.4595 null]
-endobj
 48 0 obj
-[33 0 R /XYZ 72 229.872 null]
+<< /Border [0 0 0]
+/Dest (_footnotedef_7)
+/Subtype /Link
+/Rect [189.9343 419.7174 193.5 425.6494]
+/Type /Annot
+>>
 endobj
 49 0 obj
-<< /Limits [(_1_1_1_environment_temperature_for_tubers) (__anchor-top)]
-/Names [(_1_1_1_environment_temperature_for_tubers) 22 0 R (_1_1_2_nutrient_solution_temperature_for_tubers) 25 0 R (_1_1_environment_temperature) 19 0 R (_1_2_humidity) 27 0 R (_1_3_1_critical_day_length) 34 0 R (_1_3_2_usable_light_spectrum) 39 0 R (_1_3_3_light_intensity) 43 0 R (_1_3_lights) 29 0 R (_1_monitoring_control_of_environmental_conditions_nutrients) 16 0 R (__anchor-top) 9 0 R]
->>
+[33 0 R /XYZ 0 390.854 null]
 endobj
 50 0 obj
-<< /Limits [(_data_structures) (_user_stories)]
-/Names [(_data_structures) 47 0 R (_footnotedef_1) 48 0 R (_footnotedef_2) 53 0 R (_footnotedef_3) 56 0 R (_footnotedef_4) 59 0 R (_footnotedef_5) 62 0 R (_footnotedef_6) 65 0 R (_footnotedef_7) 68 0 R (_footnoteref_1) 17 0 R (_footnoteref_2) 20 0 R (_footnoteref_3) 23 0 R (_footnoteref_4) 30 0 R (_footnoteref_5) 35 0 R (_footnoteref_6) 37 0 R (_footnoteref_7) 41 0 R (_stakeholder_needs) 14 0 R (_user_stories) 46 0 R]
->>
+[33 0 R /XYZ 0 321.4595 null]
 endobj
 51 0 obj
-<< /Border [0 0 0]
-/Dest (_footnoteref_1)
-/Subtype /Link
-/Rect [74.224 222.472 78.672 229.872]
-/Type /Annot
+<< /Limits [(_1_1_1_environment_temperature_for_tubers) (__anchor-top)]
+/Names [(_1_1_1_environment_temperature_for_tubers) 22 0 R (_1_1_2_nutrient_solution_temperature_for_tubers) 25 0 R (_1_1_environment_temperature) 19 0 R (_1_2_humidity) 27 0 R (_1_3_1_critical_day_length) 34 0 R (_1_3_2_usable_light_spectrum) 41 0 R (_1_3_3_light_intensity) 45 0 R (_1_3_lights) 29 0 R (_1_monitoring_control_of_environmental_conditions_nutrients) 16 0 R (__anchor-top) 9 0 R]
 >>
 endobj
 52 0 obj
-<< /Border [0 0 0]
-/A << /Type /Action
-/S /URI
-/URI (https://doi.org/10.1155/2018/8672769)
->>
-/Subtype /Link
-/Rect [238.768 203.976 371.752 211.376]
-/Type /Annot
+<< /Limits [(_data_structures) (_user_stories)]
+/Names [(_data_structures) 50 0 R (_footnotedef_1) 53 0 R (_footnotedef_2) 56 0 R (_footnotedef_3) 59 0 R (_footnotedef_4) 62 0 R (_footnotedef_5) 65 0 R (_footnotedef_6) 68 0 R (_footnotedef_7) 71 0 R (_footnotedef_8) 74 0 R (_footnoteref_1) 17 0 R (_footnoteref_2) 20 0 R (_footnoteref_3) 23 0 R (_footnoteref_4) 30 0 R (_footnoteref_5) 35 0 R (_footnoteref_6) 37 0 R (_footnoteref_7) 39 0 R (_footnoteref_8) 43 0 R (_stakeholder_needs) 14 0 R (_user_stories) 49 0 R]
 >>
 endobj
 53 0 obj
-[33 0 R /XYZ 72 199.128 null]
+[33 0 R /XYZ 72 260.616 null]
 endobj
 54 0 obj
 << /Border [0 0 0]
-/Dest (_footnoteref_2)
+/Dest (_footnoteref_1)
 /Subtype /Link
-/Rect [74.224 191.728 78.672 199.128]
+/Rect [74.224 253.216 78.672 260.616]
 /Type /Annot
 >>
 endobj
@@ -2925,21 +3085,21 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://doi.org/10.1109/ICVEE50212.2020.9243213)
+/URI (https://doi.org/10.1155/2018/8672769)
 >>
 /Subtype /Link
-/Rect [226.44 173.232 407.896 180.632]
+/Rect [238.768 234.72 371.752 242.12]
 /Type /Annot
 >>
 endobj
 56 0 obj
-[33 0 R /XYZ 72 168.384 null]
+[33 0 R /XYZ 72 229.872 null]
 endobj
 57 0 obj
 << /Border [0 0 0]
-/Dest (_footnoteref_3)
+/Dest (_footnoteref_2)
 /Subtype /Link
-/Rect [74.224 160.984 78.672 168.384]
+/Rect [74.224 222.472 78.672 229.872]
 /Type /Annot
 >>
 endobj
@@ -2947,21 +3107,21 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://doi.org/10.4160/9789290603924)
+/URI (https://doi.org/10.1109/ICVEE50212.2020.9243213)
 >>
 /Subtype /Link
-/Rect [94.24 151.736 233.896 159.136]
+/Rect [226.44 203.976 407.896 211.376]
 /Type /Annot
 >>
 endobj
 59 0 obj
-[33 0 R /XYZ 72 146.888 null]
+[33 0 R /XYZ 72 199.128 null]
 endobj
 60 0 obj
 << /Border [0 0 0]
-/Dest (_footnoteref_4)
+/Dest (_footnoteref_3)
 /Subtype /Link
-/Rect [74.224 139.488 78.672 146.888]
+/Rect [74.224 191.728 78.672 199.128]
 /Type /Annot
 >>
 endobj
@@ -2969,21 +3129,21 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://aeroponicsdiy.com/indoor-plant-lights-for-aeroponics/)
+/URI (https://doi.org/10.4160/9789290603924)
 >>
 /Subtype /Link
-/Rect [205.608 139.488 417.088 146.888]
+/Rect [94.24 182.48 233.896 189.88]
 /Type /Annot
 >>
 endobj
 62 0 obj
-[33 0 R /XYZ 72 134.64 null]
+[33 0 R /XYZ 72 177.632 null]
 endobj
 63 0 obj
 << /Border [0 0 0]
-/Dest (_footnoteref_5)
+/Dest (_footnoteref_4)
 /Subtype /Link
-/Rect [74.224 127.24 78.672 134.64]
+/Rect [74.224 170.232 78.672 177.632]
 /Type /Annot
 >>
 endobj
@@ -2991,21 +3151,21 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://hortione.com/2020/12/the-right-light-intensity-which-distance/)
+/URI (https://aeroponicsdiy.com/indoor-plant-lights-for-aeroponics/)
 >>
 /Subtype /Link
-/Rect [277.992 127.24 518.408 134.64]
+/Rect [205.608 170.232 417.088 177.632]
 /Type /Annot
 >>
 endobj
 65 0 obj
-[33 0 R /XYZ 72 122.392 null]
+[33 0 R /XYZ 72 165.384 null]
 endobj
 66 0 obj
 << /Border [0 0 0]
-/Dest (_footnoteref_6)
+/Dest (_footnoteref_5)
 /Subtype /Link
-/Rect [74.224 114.992 78.672 122.392]
+/Rect [74.224 157.984 78.672 165.384]
 /Type /Annot
 >>
 endobj
@@ -3013,25 +3173,69 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (https://doi.org/10.1007/s13580-013-0109-8)
+/URI (https://hortione.com/2020/12/the-right-light-intensity-which-distance/)
 >>
 /Subtype /Link
-/Rect [72 96.496 223.648 103.896]
+/Rect [277.992 157.984 518.408 165.384]
 /Type /Annot
 >>
 endobj
 68 0 obj
-[33 0 R /XYZ 72 91.648 null]
+[33 0 R /XYZ 72 153.136 null]
 endobj
 69 0 obj
 << /Border [0 0 0]
+/Dest (_footnoteref_6)
+/Subtype /Link
+/Rect [74.224 145.736 78.672 153.136]
+/Type /Annot
+>>
+endobj
+70 0 obj
+<< /Border [0 0 0]
+/A << /Type /Action
+/S /URI
+/URI (https://doi.org/10.1007/s13580-013-0109-8)
+>>
+/Subtype /Link
+/Rect [72 127.24 223.648 134.64]
+/Type /Annot
+>>
+endobj
+71 0 obj
+[33 0 R /XYZ 72 122.392 null]
+endobj
+72 0 obj
+<< /Border [0 0 0]
 /Dest (_footnoteref_7)
+/Subtype /Link
+/Rect [74.224 114.992 78.672 122.392]
+/Type /Annot
+>>
+endobj
+73 0 obj
+<< /Border [0 0 0]
+/A << /Type /Action
+/S /URI
+/URI (https://doi.org/10.3390/horticulturae7080239)
+>>
+/Subtype /Link
+/Rect [72 96.496 229.224 103.896]
+/Type /Annot
+>>
+endobj
+74 0 obj
+[33 0 R /XYZ 72 91.648 null]
+endobj
+75 0 obj
+<< /Border [0 0 0]
+/Dest (_footnoteref_8)
 /Subtype /Link
 /Rect [74.224 84.248 78.672 91.648]
 /Type /Annot
 >>
 endobj
-70 0 obj
+76 0 obj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
@@ -3042,7 +3246,7 @@ endobj
 /Type /Annot
 >>
 endobj
-71 0 obj
+77 0 obj
 << /Border [0 0 0]
 /Dest (_stakeholder_needs)
 /Subtype /Link
@@ -3050,7 +3254,7 @@ endobj
 /Type /Annot
 >>
 endobj
-72 0 obj
+78 0 obj
 << /Border [0 0 0]
 /Dest (_stakeholder_needs)
 /Subtype /Link
@@ -3058,7 +3262,7 @@ endobj
 /Type /Annot
 >>
 endobj
-73 0 obj
+79 0 obj
 << /Border [0 0 0]
 /Dest (_1_monitoring_control_of_environmental_conditions_nutrients)
 /Subtype /Link
@@ -3066,7 +3270,7 @@ endobj
 /Type /Annot
 >>
 endobj
-74 0 obj
+80 0 obj
 << /Border [0 0 0]
 /Dest (_1_monitoring_control_of_environmental_conditions_nutrients)
 /Subtype /Link
@@ -3074,7 +3278,7 @@ endobj
 /Type /Annot
 >>
 endobj
-75 0 obj
+81 0 obj
 << /Border [0 0 0]
 /Dest (_1_1_environment_temperature)
 /Subtype /Link
@@ -3082,7 +3286,7 @@ endobj
 /Type /Annot
 >>
 endobj
-76 0 obj
+82 0 obj
 << /Border [0 0 0]
 /Dest (_1_1_environment_temperature)
 /Subtype /Link
@@ -3090,7 +3294,7 @@ endobj
 /Type /Annot
 >>
 endobj
-77 0 obj
+83 0 obj
 << /Border [0 0 0]
 /Dest (_1_1_1_environment_temperature_for_tubers)
 /Subtype /Link
@@ -3098,7 +3302,7 @@ endobj
 /Type /Annot
 >>
 endobj
-78 0 obj
+84 0 obj
 << /Border [0 0 0]
 /Dest (_1_1_1_environment_temperature_for_tubers)
 /Subtype /Link
@@ -3106,7 +3310,7 @@ endobj
 /Type /Annot
 >>
 endobj
-79 0 obj
+85 0 obj
 << /Border [0 0 0]
 /Dest (_1_1_2_nutrient_solution_temperature_for_tubers)
 /Subtype /Link
@@ -3114,7 +3318,7 @@ endobj
 /Type /Annot
 >>
 endobj
-80 0 obj
+86 0 obj
 << /Border [0 0 0]
 /Dest (_1_1_2_nutrient_solution_temperature_for_tubers)
 /Subtype /Link
@@ -3122,7 +3326,7 @@ endobj
 /Type /Annot
 >>
 endobj
-81 0 obj
+87 0 obj
 << /Border [0 0 0]
 /Dest (_1_2_humidity)
 /Subtype /Link
@@ -3130,7 +3334,7 @@ endobj
 /Type /Annot
 >>
 endobj
-82 0 obj
+88 0 obj
 << /Border [0 0 0]
 /Dest (_1_2_humidity)
 /Subtype /Link
@@ -3138,7 +3342,7 @@ endobj
 /Type /Annot
 >>
 endobj
-83 0 obj
+89 0 obj
 << /Border [0 0 0]
 /Dest (_1_3_lights)
 /Subtype /Link
@@ -3146,7 +3350,7 @@ endobj
 /Type /Annot
 >>
 endobj
-84 0 obj
+90 0 obj
 << /Border [0 0 0]
 /Dest (_1_3_lights)
 /Subtype /Link
@@ -3154,7 +3358,7 @@ endobj
 /Type /Annot
 >>
 endobj
-85 0 obj
+91 0 obj
 << /Border [0 0 0]
 /Dest (_1_3_1_critical_day_length)
 /Subtype /Link
@@ -3162,7 +3366,7 @@ endobj
 /Type /Annot
 >>
 endobj
-86 0 obj
+92 0 obj
 << /Border [0 0 0]
 /Dest (_1_3_1_critical_day_length)
 /Subtype /Link
@@ -3170,7 +3374,7 @@ endobj
 /Type /Annot
 >>
 endobj
-87 0 obj
+93 0 obj
 << /Border [0 0 0]
 /Dest (_1_3_2_usable_light_spectrum)
 /Subtype /Link
@@ -3178,7 +3382,7 @@ endobj
 /Type /Annot
 >>
 endobj
-88 0 obj
+94 0 obj
 << /Border [0 0 0]
 /Dest (_1_3_2_usable_light_spectrum)
 /Subtype /Link
@@ -3186,7 +3390,7 @@ endobj
 /Type /Annot
 >>
 endobj
-89 0 obj
+95 0 obj
 << /Border [0 0 0]
 /Dest (_1_3_3_light_intensity)
 /Subtype /Link
@@ -3194,7 +3398,7 @@ endobj
 /Type /Annot
 >>
 endobj
-90 0 obj
+96 0 obj
 << /Border [0 0 0]
 /Dest (_1_3_3_light_intensity)
 /Subtype /Link
@@ -3202,7 +3406,7 @@ endobj
 /Type /Annot
 >>
 endobj
-91 0 obj
+97 0 obj
 << /Border [0 0 0]
 /Dest (_user_stories)
 /Subtype /Link
@@ -3210,7 +3414,7 @@ endobj
 /Type /Annot
 >>
 endobj
-92 0 obj
+98 0 obj
 << /Border [0 0 0]
 /Dest (_user_stories)
 /Subtype /Link
@@ -3218,7 +3422,7 @@ endobj
 /Type /Annot
 >>
 endobj
-93 0 obj
+99 0 obj
 << /Border [0 0 0]
 /Dest (_data_structures)
 /Subtype /Link
@@ -3226,7 +3430,7 @@ endobj
 /Type /Annot
 >>
 endobj
-94 0 obj
+100 0 obj
 << /Border [0 0 0]
 /Dest (_data_structures)
 /Subtype /Link
@@ -3234,145 +3438,145 @@ endobj
 /Type /Annot
 >>
 endobj
-95 0 obj
+101 0 obj
 << /Type /Outlines
 /Count 14
-/First 96 0 R
-/Last 109 0 R
->>
-endobj
-96 0 obj
-<< /Title <feff0041006900720070006f006e0069006300730020004300680061006d006200650072>
-/Parent 95 0 R
-/Count 0
-/Next 97 0 R
-/Dest [7 0 R /XYZ 0 792 null]
->>
-endobj
-97 0 obj
-<< /Title <feff005400610062006c00650020006f006600200043006f006e00740065006e00740073>
-/Parent 95 0 R
-/Count 0
-/Next 98 0 R
-/Prev 96 0 R
-/Dest [7 0 R /XYZ 0 792 null]
->>
-endobj
-98 0 obj
-<< /Title <feff005300740061006b00650068006f006c0064006500720020004e0065006500640073>
-/Parent 95 0 R
-/Count 9
-/First 99 0 R
-/Last 107 0 R
-/Next 108 0 R
-/Prev 97 0 R
-/Dest [13 0 R /XYZ 0 792 null]
->>
-endobj
-99 0 obj
-<< /Title <feff0031003a0020004d006f006e00690074006f00720069006e00670020002600200043006f006e00740072006f006c0020006f006600200045006e007600690072006f006e006d0065006e00740061006c00200043006f006e0064006900740069006f006e0073002000260020004e00750074007200690065006e00740073>
-/Parent 98 0 R
-/Count 0
-/Next 100 0 R
-/Dest [13 0 R /XYZ 0 668.1215 null]
->>
-endobj
-100 0 obj
-<< /Title <feff0031002e0031003a00200045006e007600690072006f006e006d0065006e0074002000540065006d00700065007200610074007500720065>
-/Parent 98 0 R
-/Count 0
-/Next 101 0 R
-/Prev 99 0 R
-/Dest [13 0 R /XYZ 0 577.9995 null]
->>
-endobj
-101 0 obj
-<< /Title <feff0031002e0031002e0031003a00200045006e007600690072006f006e006d0065006e0074002000540065006d0070006500720061007400750072006500200066006f00720020005400750062006500720073>
-/Parent 98 0 R
-/Count 0
-/Next 102 0 R
-/Prev 100 0 R
-/Dest [13 0 R /XYZ 0 487.8775 null]
+/First 102 0 R
+/Last 115 0 R
 >>
 endobj
 102 0 obj
-<< /Title <feff0031002e0031002e0032003a0020004e00750074007200690065006e007400200053006f006c007500740069006f006e002000540065006d0070006500720061007400750072006500200066006f00720020005400750062006500720073>
-/Parent 98 0 R
+<< /Title <feff0041006900720070006f006e0069006300730020004300680061006d006200650072>
+/Parent 101 0 R
 /Count 0
 /Next 103 0 R
-/Prev 101 0 R
-/Dest [13 0 R /XYZ 0 385.0395 null]
+/Dest [7 0 R /XYZ 0 792 null]
 >>
 endobj
 103 0 obj
-<< /Title <feff0031002e0032003a002000480075006d00690064006900740079>
-/Parent 98 0 R
+<< /Title <feff005400610062006c00650020006f006600200043006f006e00740065006e00740073>
+/Parent 101 0 R
 /Count 0
 /Next 104 0 R
 /Prev 102 0 R
-/Dest [13 0 R /XYZ 0 294.9175 null]
+/Dest [7 0 R /XYZ 0 792 null]
 >>
 endobj
 104 0 obj
-<< /Title <feff0031002e0033003a0020004c00690067006800740073>
-/Parent 98 0 R
-/Count 0
-/Next 105 0 R
+<< /Title <feff005300740061006b00650068006f006c0064006500720020004e0065006500640073>
+/Parent 101 0 R
+/Count 9
+/First 105 0 R
+/Last 113 0 R
+/Next 114 0 R
 /Prev 103 0 R
-/Dest [13 0 R /XYZ 0 204.7955 null]
+/Dest [13 0 R /XYZ 0 792 null]
 >>
 endobj
 105 0 obj
-<< /Title <feff0031002e0033002e0031003a00200043007200690074006900630061006c00200044006100790020004c0065006e006700740068>
-/Parent 98 0 R
+<< /Title <feff0031003a0020004d006f006e00690074006f00720069006e00670020002600200043006f006e00740072006f006c0020006f006600200045006e007600690072006f006e006d0065006e00740061006c00200043006f006e0064006900740069006f006e0073002000260020004e00750074007200690065006e00740073>
+/Parent 104 0 R
 /Count 0
 /Next 106 0 R
-/Prev 104 0 R
-/Dest [33 0 R /XYZ 0 792 null]
+/Dest [13 0 R /XYZ 0 668.1215 null]
 >>
 endobj
 106 0 obj
-<< /Title <feff0031002e0033002e0032003a00200055007300610062006c00650020004c006900670068007400200053007000650063007400720075006d>
-/Parent 98 0 R
+<< /Title <feff0031002e0031003a00200045006e007600690072006f006e006d0065006e0074002000540065006d00700065007200610074007500720065>
+/Parent 104 0 R
 /Count 0
 /Next 107 0 R
 /Prev 105 0 R
-/Dest [33 0 R /XYZ 0 621.962 null]
+/Dest [13 0 R /XYZ 0 577.9995 null]
 >>
 endobj
 107 0 obj
-<< /Title <feff0031002e0033002e0033003a0020004c006900670068007400200049006e00740065006e0073006900740079>
-/Parent 98 0 R
+<< /Title <feff0031002e0031002e0031003a00200045006e007600690072006f006e006d0065006e0074002000540065006d0070006500720061007400750072006500200066006f00720020005400750062006500720073>
+/Parent 104 0 R
 /Count 0
+/Next 108 0 R
 /Prev 106 0 R
-/Dest [33 0 R /XYZ 0 506.408 null]
+/Dest [13 0 R /XYZ 0 487.8775 null]
 >>
 endobj
 108 0 obj
-<< /Title <feff0055007300650072002000530074006f0072006900650073>
-/Parent 95 0 R
+<< /Title <feff0031002e0031002e0032003a0020004e00750074007200690065006e007400200053006f006c007500740069006f006e002000540065006d0070006500720061007400750072006500200066006f00720020005400750062006500720073>
+/Parent 104 0 R
 /Count 0
 /Next 109 0 R
-/Prev 98 0 R
-/Dest [33 0 R /XYZ 0 390.854 null]
+/Prev 107 0 R
+/Dest [13 0 R /XYZ 0 385.0395 null]
 >>
 endobj
 109 0 obj
-<< /Title <feff004400610074006100200053007400720075006300740075007200650073>
-/Parent 95 0 R
+<< /Title <feff0031002e0032003a002000480075006d00690064006900740079>
+/Parent 104 0 R
 /Count 0
+/Next 110 0 R
 /Prev 108 0 R
-/Dest [33 0 R /XYZ 0 321.4595 null]
+/Dest [13 0 R /XYZ 0 294.9175 null]
 >>
 endobj
 110 0 obj
+<< /Title <feff0031002e0033003a0020004c00690067006800740073>
+/Parent 104 0 R
+/Count 0
+/Next 111 0 R
+/Prev 109 0 R
+/Dest [13 0 R /XYZ 0 204.7955 null]
+>>
+endobj
+111 0 obj
+<< /Title <feff0031002e0033002e0031003a00200043007200690074006900630061006c00200044006100790020004c0065006e006700740068>
+/Parent 104 0 R
+/Count 0
+/Next 112 0 R
+/Prev 110 0 R
+/Dest [33 0 R /XYZ 0 792 null]
+>>
+endobj
+112 0 obj
+<< /Title <feff0031002e0033002e0032003a00200055007300610062006c00650020004c006900670068007400200053007000650063007400720075006d>
+/Parent 104 0 R
+/Count 0
+/Next 113 0 R
+/Prev 111 0 R
+/Dest [33 0 R /XYZ 0 621.962 null]
+>>
+endobj
+113 0 obj
+<< /Title <feff0031002e0033002e0033003a0020004c006900670068007400200049006e00740065006e0073006900740079>
+/Parent 104 0 R
+/Count 0
+/Prev 112 0 R
+/Dest [33 0 R /XYZ 0 506.408 null]
+>>
+endobj
+114 0 obj
+<< /Title <feff0055007300650072002000530074006f0072006900650073>
+/Parent 101 0 R
+/Count 0
+/Next 115 0 R
+/Prev 104 0 R
+/Dest [33 0 R /XYZ 0 390.854 null]
+>>
+endobj
+115 0 obj
+<< /Title <feff004400610074006100200053007400720075006300740075007200650073>
+/Parent 101 0 R
+/Count 0
+/Prev 114 0 R
+/Dest [33 0 R /XYZ 0 321.4595 null]
+>>
+endobj
+116 0 obj
 << /Nums [0 << /P (1)
 >> 1 << /P (2)
 >> 2 << /P (3)
 >>]
 >>
 endobj
-111 0 obj
+117 0 obj
 << /Type /XObject
 /Subtype /Form
 /BBox [0 0 612 792]
@@ -3400,7 +3604,7 @@ Q
 
 endstream
 endobj
-112 0 obj
+118 0 obj
 << /Type /XObject
 /Subtype /Form
 /BBox [0 0 612 792]
@@ -3429,125 +3633,131 @@ Q
 endstream
 endobj
 xref
-0 113
+0 119
 0000000000 65535 f 
 0000000015 00000 n 
 0000000249 00000 n 
-0000000449 00000 n 
-0000000520 00000 n 
-0000000571 00000 n 
-0000000813 00000 n 
-0000010343 00000 n 
-0000010831 00000 n 
-0000010933 00000 n 
-0000010977 00000 n 
-0000011026 00000 n 
-0000011070 00000 n 
-0000023430 00000 n 
-0000023794 00000 n 
-0000023835 00000 n 
-0000023933 00000 n 
-0000023979 00000 n 
-0000024030 00000 n 
-0000024163 00000 n 
-0000024209 00000 n 
-0000024261 00000 n 
-0000024394 00000 n 
-0000024440 00000 n 
-0000024492 00000 n 
-0000024625 00000 n 
-0000024671 00000 n 
-0000024804 00000 n 
-0000024850 00000 n 
-0000024983 00000 n 
-0000025029 00000 n 
-0000025081 00000 n 
-0000025214 00000 n 
-0000044805 00000 n 
-0000045267 00000 n 
-0000045308 00000 n 
-0000045359 00000 n 
-0000045492 00000 n 
-0000045544 00000 n 
-0000045677 00000 n 
-0000045722 00000 n 
-0000045855 00000 n 
-0000045907 00000 n 
-0000046040 00000 n 
-0000046085 00000 n 
-0000046218 00000 n 
-0000046351 00000 n 
-0000046396 00000 n 
-0000046442 00000 n 
-0000046488 00000 n 
-0000046974 00000 n 
-0000047463 00000 n 
-0000047590 00000 n 
-0000047771 00000 n 
-0000047817 00000 n 
-0000047944 00000 n 
-0000048135 00000 n 
-0000048181 00000 n 
-0000048308 00000 n 
-0000048488 00000 n 
-0000048534 00000 n 
-0000048661 00000 n 
-0000048867 00000 n 
-0000048912 00000 n 
-0000049037 00000 n 
-0000049250 00000 n 
-0000049296 00000 n 
-0000049423 00000 n 
-0000049603 00000 n 
-0000049648 00000 n 
-0000049773 00000 n 
-0000049947 00000 n 
-0000050077 00000 n 
-0000050208 00000 n 
-0000050379 00000 n 
-0000050551 00000 n 
-0000050691 00000 n 
-0000050832 00000 n 
-0000050984 00000 n 
-0000051138 00000 n 
-0000051297 00000 n 
-0000051457 00000 n 
-0000051582 00000 n 
-0000051708 00000 n 
-0000051831 00000 n 
-0000051955 00000 n 
-0000052093 00000 n 
-0000052232 00000 n 
-0000052371 00000 n 
-0000052512 00000 n 
-0000052645 00000 n 
-0000052780 00000 n 
-0000052905 00000 n 
-0000053031 00000 n 
-0000053159 00000 n 
-0000053288 00000 n 
-0000053364 00000 n 
-0000053535 00000 n 
-0000053719 00000 n 
-0000053933 00000 n 
-0000054295 00000 n 
-0000054531 00000 n 
-0000054820 00000 n 
-0000055133 00000 n 
-0000055310 00000 n 
-0000055479 00000 n 
-0000055703 00000 n 
-0000055939 00000 n 
-0000056137 00000 n 
-0000056308 00000 n 
-0000056479 00000 n 
-0000056555 00000 n 
-0000056818 00000 n 
+0000000450 00000 n 
+0000000521 00000 n 
+0000000572 00000 n 
+0000000814 00000 n 
+0000010344 00000 n 
+0000010833 00000 n 
+0000010935 00000 n 
+0000010979 00000 n 
+0000011028 00000 n 
+0000011072 00000 n 
+0000023432 00000 n 
+0000023796 00000 n 
+0000023837 00000 n 
+0000023935 00000 n 
+0000023981 00000 n 
+0000024032 00000 n 
+0000024165 00000 n 
+0000024211 00000 n 
+0000024263 00000 n 
+0000024396 00000 n 
+0000024442 00000 n 
+0000024494 00000 n 
+0000024627 00000 n 
+0000024673 00000 n 
+0000024806 00000 n 
+0000024852 00000 n 
+0000024985 00000 n 
+0000025031 00000 n 
+0000025083 00000 n 
+0000025216 00000 n 
+0000047063 00000 n 
+0000047553 00000 n 
+0000047594 00000 n 
+0000047645 00000 n 
+0000047778 00000 n 
+0000047830 00000 n 
+0000047963 00000 n 
+0000048015 00000 n 
+0000048147 00000 n 
+0000048192 00000 n 
+0000048325 00000 n 
+0000048377 00000 n 
+0000048510 00000 n 
+0000048555 00000 n 
+0000048688 00000 n 
+0000048821 00000 n 
+0000048951 00000 n 
+0000048996 00000 n 
+0000049042 00000 n 
+0000049528 00000 n 
+0000050065 00000 n 
+0000050111 00000 n 
+0000050238 00000 n 
+0000050417 00000 n 
+0000050463 00000 n 
+0000050590 00000 n 
+0000050781 00000 n 
+0000050827 00000 n 
+0000050954 00000 n 
+0000051132 00000 n 
+0000051178 00000 n 
+0000051305 00000 n 
+0000051511 00000 n 
+0000051557 00000 n 
+0000051684 00000 n 
+0000051899 00000 n 
+0000051945 00000 n 
+0000052072 00000 n 
+0000052251 00000 n 
+0000052297 00000 n 
+0000052424 00000 n 
+0000052607 00000 n 
+0000052652 00000 n 
+0000052777 00000 n 
+0000052951 00000 n 
+0000053081 00000 n 
+0000053212 00000 n 
+0000053383 00000 n 
+0000053555 00000 n 
+0000053695 00000 n 
+0000053836 00000 n 
+0000053988 00000 n 
+0000054142 00000 n 
+0000054301 00000 n 
+0000054461 00000 n 
+0000054586 00000 n 
+0000054712 00000 n 
+0000054835 00000 n 
+0000054959 00000 n 
+0000055097 00000 n 
+0000055236 00000 n 
+0000055375 00000 n 
+0000055516 00000 n 
+0000055649 00000 n 
+0000055784 00000 n 
+0000055909 00000 n 
+0000056035 00000 n 
+0000056163 00000 n 
+0000056293 00000 n 
+0000056371 00000 n 
+0000056545 00000 n 
+0000056733 00000 n 
+0000056951 00000 n 
+0000057315 00000 n 
+0000057553 00000 n 
+0000057843 00000 n 
+0000058157 00000 n 
+0000058335 00000 n 
+0000058505 00000 n 
+0000058730 00000 n 
+0000058967 00000 n 
+0000059166 00000 n 
+0000059339 00000 n 
+0000059511 00000 n 
+0000059587 00000 n 
+0000059850 00000 n 
 trailer
-<< /Size 113
+<< /Size 119
 /Root 2 0 R
 /Info 1 0 R
 >>
 startxref
-57081
+60113
 %%EOF
