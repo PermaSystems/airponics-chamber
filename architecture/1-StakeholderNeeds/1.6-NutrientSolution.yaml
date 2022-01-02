@@ -1,0 +1,5 @@
+id: 1.6
+name: "Nutrient Solution EC and pH level"
+statement: "In an aeroponics system, the electrical conductivity (EC) and pH level of the nutrient solution are essential for the plants absorbtion of nutrients."
+derivedFrom:
+- "0-References/11-HydroponicsAStandardMethodologyForPlantBiologicalResearches.yaml"
