@@ -82,7 +82,7 @@ In an aeroponics system, the liquid level of the nutrient solution reservoir sho
 ****
 
 
-=== 1.6: EC and pH level
+=== 1.6: Nutrient Solution EC and pH level
 ****
 In an aeroponics system, the electrical conductivity (EC) and pH level of the nutrient solution are essential for the plants absorbtion of nutrients.footnote:11-HydroponicsAStandardMethodologyForPlantBiologicalResearches[T. Asao, "Hydroponics - A Standard Methodology for Plant Biological Researches", Intech, Rijeka, Croatia, 1st edition, 2012. https://doi.org/10.5772/2215]
 ****

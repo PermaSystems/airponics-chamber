@@ -178,7 +178,7 @@ elements:
         0-References/1-MonitoringAndControlSystemsInAgricultureUsingIntelligentSensorTechniques.yaml
   1-StakeholderNeeds/1.6-NutrientSolution.yaml: &ref_22
     id: 1.6
-    name: EC and pH level
+    name: Nutrient Solution EC and pH level
     statement: >-
       In an aeroponics system, the electrical conductivity (EC) and pH level of
       the nutrient solution are essential for the plants absorbtion of
