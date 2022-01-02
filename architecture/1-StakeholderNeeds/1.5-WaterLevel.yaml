@@ -1,0 +1,5 @@
+id: 1.5
+name: "Water Level"
+statement: "In an aeroponics system, the liquid level of the nutrient solution reservoir should be monitored as to mitigate potential leaks or container nearing empty."
+derivedFrom:
+- "0-References/1-MonitoringAndControlSystemsInAgricultureUsingIntelligentSensorTechniques.yaml"
