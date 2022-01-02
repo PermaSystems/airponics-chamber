@@ -76,6 +76,18 @@ Elevated carbon dioxide (CO2) concentration yields increased photosynthesis; e.g
 ****
 
 
+=== 1.5: Water Level
+****
+In an aeroponics system, the liquid level of the nutrient solution reservoir should be monitored as to mitigate potential leaks or container nearing empty.footnote:1-MonitoringAndControlSystemsInAgricultureUsingIntelligentSensorTechniques[Imran Ali Lakhiar, Gao Jianmin, Tabinda Naz Syed, Farman Ali Chandio, Noman Ali Buttar, Waqar Ahmed Qureshi, "Monitoring and Control Systems in Agriculture Using Intelligent Sensor Techniques: A Review of the Aeroponic System", Journal of Sensors, vol. 2018, Article ID 8672769, 18 pages, 2018. https://doi.org/10.1155/2018/8672769]
+****
+
+
+=== 1.6: EC and pH level
+****
+In an aeroponics system, the electrical conductivity (EC) and pH level of the nutrient solution are essential for the plants absorbtion of nutrients.footnote:11-HydroponicsAStandardMethodologyForPlantBiologicalResearches[T. Asao, "Hydroponics - A Standard Methodology for Plant Biological Researches", Intech, Rijeka, Croatia, 1st edition, 2012. https://doi.org/10.5772/2215]
+****
+
+
 
 == User Stories
 
