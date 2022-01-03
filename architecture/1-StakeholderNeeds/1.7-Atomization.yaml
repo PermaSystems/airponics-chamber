@@ -1,0 +1,5 @@
+id: 1.7
+name: "Atomization of Nutrient Solution"
+statement: "In an aeroponics system, the droplet size, spray time, spray duration, and spray interval of atomized nutrient solution onto plant roots are essential for successful plant cultivation."
+derivedFrom:
+- "0-References/12-ModernPlantCultivationTechnologiesInAgricultureUnderControlledEnvironment.yaml"
