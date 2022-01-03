@@ -83,11 +83,13 @@ elements:
     id: 1.1
     name: Environment Temperature
     statement: >-
-      In an aeroponics system, the ideal environment temperature for plant
-      growth is 25 to 30 degrees celsius
+      In an aeroponics system, The optimum temperature range for successful
+      plant growth is 15 to 30 °C.
     derivedFrom:
       - >-
         0-References/2-DesignAndImplementationOfIoTSystemForAeroponicChamberTemperatureMonitoring.yaml
+      - >-
+        0-References/12-ModernPlantCultivationTechnologiesInAgricultureUnderControlledEnvironment.yaml
   1-StakeholderNeeds/1.1.1-EnvironmentTemperatureForTubers.yaml: &ref_14
     id: 1.1.1
     name: Environment Temperature for Tubers

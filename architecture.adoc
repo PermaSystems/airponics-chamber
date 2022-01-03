@@ -24,7 +24,7 @@ In an aeroponics system, the environmental conditions & nutrients need to be mon
 
 === 1.1: Environment Temperature
 ****
-In an aeroponics system, the ideal environment temperature for plant growth is 25 to 30 degrees celsiusfootnote:2-DesignAndImplementationOfIoTSystemForAeroponicChamberTemperatureMonitoring[Charisma Aulia Jamhari, Wahyu Kunto Wibowo, Aulia Rahma Annisa, Teuku Muhammad Roffi, "Design and Implementation of IoT System for Aeroponic Chamber Temperature Monitoring", Vocational Education and Electrical Engineering (ICVEE) 2020 Third International Conference on, pp. 1-4, 2020. https://doi.org/10.1109/ICVEE50212.2020.9243213]
+In an aeroponics system, The optimum temperature range for successful plant growth is 15 to 30 °C.footnote:2-DesignAndImplementationOfIoTSystemForAeroponicChamberTemperatureMonitoring[Charisma Aulia Jamhari, Wahyu Kunto Wibowo, Aulia Rahma Annisa, Teuku Muhammad Roffi, "Design and Implementation of IoT System for Aeroponic Chamber Temperature Monitoring", Vocational Education and Electrical Engineering (ICVEE) 2020 Third International Conference on, pp. 1-4, 2020. https://doi.org/10.1109/ICVEE50212.2020.9243213]footnote:12-ModernPlantCultivationTechnologiesInAgricultureUnderControlledEnvironment[Imran Ali Lakhiar, Jianmin Gao, Tabinda Naz Syed, Farman Ali Chandio & Noman Ali Buttar (2018). "Modern plant cultivation technologies in agriculture under controlled environment: a review on aeroponics", Journal of Plant Interactions, 13:1, 338-352. https://doi.org/10.1080/17429145.2018.1472308]
 ****
 
 
