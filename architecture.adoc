@@ -88,6 +88,12 @@ In an aeroponics system, the electrical conductivity (EC) and pH level of the nu
 ****
 
 
+=== 1.7: Atomization of Nutrient Solution
+****
+In an aeroponics system, the droplet size, spray time, spray duration, and spray interval of atomized nutrient solution onto plant roots are essential for successful plant cultivation.footnote:12-ModernPlantCultivationTechnologiesInAgricultureUnderControlledEnvironment[Imran Ali Lakhiar, Jianmin Gao, Tabinda Naz Syed, Farman Ali Chandio & Noman Ali Buttar (2018). "Modern plant cultivation technologies in agriculture under controlled environment: a review on aeroponics", Journal of Plant Interactions, 13:1, 338-352. https://doi.org/10.1080/17429145.2018.1472308]
+****
+
+
 
 == User Stories
 
